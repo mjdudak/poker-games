@@ -7,6 +7,7 @@
     - Deal a card to the third stack only when the player bids
 
 ## The Rules
+- Typically, players will ante somewhere around 5-10 times the usual ante to build up an initial pot
 - The dealer will flip two cards face up, and the player will bid if they think the next card will be between the first two (exclusive)
     - Typically, the first time around, players can only bid their ante
     - After the first time around, players can bid up to the total amount in the pot
