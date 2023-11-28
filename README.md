@@ -6,6 +6,7 @@
 - [5 Card Ian](5-card-ian.md)
 - [5 Card Trash](5-card-trash.md)
 - [Between the Sheets](between-the-sheets.md)
+- [French Revolution](french-revolution.md)
 - [Pass the Trash](pass-the-trash.md)
 - [Picture](picture.md)
 - [Screw Your Neighbor](screw-your-neighbor.md)
